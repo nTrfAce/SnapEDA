@@ -331,9 +331,9 @@ LETTER landscape</description>
 <sheets>
 <sheet>
 <plain>
-<text x="148.59" y="24.13" size="2.54" layer="88">TI DS9638CM
-SOIC-8
-SOIC127P62X175-8N</text>
+<text x="148.59" y="24.13" size="2.54" layer="88">SOIC-8-N
+SOIC127P62X175-8N
+TI DS9638CM</text>
 </plain>
 <instances>
 <instance part="U1" gate="A" x="121.92" y="104.14"/>
