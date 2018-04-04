@@ -799,6 +799,9 @@ QFP80P900X900X120-32N</text>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="113,1,124.356,92.606,FRAME1,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>

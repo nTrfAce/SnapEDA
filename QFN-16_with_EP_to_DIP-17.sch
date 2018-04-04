@@ -485,6 +485,9 @@ LETTER landscape</description>
 <sheets>
 <sheet>
 <plain>
+<text x="149.86" y="24.13" size="2.54" layer="89">QFN-16
+DS28E17
+QFN65P400X400X80-17N</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -622,4 +625,10 @@ LETTER landscape</description>
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>
