@@ -1862,6 +1862,9 @@ DSPIC33FJ64GP310-I
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="113,1,124.356,92.606,FRAME1,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>
