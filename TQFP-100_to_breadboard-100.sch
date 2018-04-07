@@ -1145,7 +1145,7 @@ LETTER landscape</description>
 <plain>
 <text x="149.86" y="24.13" size="2.54" layer="89">TQFP-100
 DSPIC33FJ64GP310-I
-</text>
+ATMEGA2560V-8AU</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
