@@ -1134,7 +1134,7 @@ LETTER landscape</description>
 </classes>
 <parts>
 <part name="FRAME1" library="SnapEDA" deviceset="LETTER_L" device=""/>
-<part name="U1" library="SnapEDA" deviceset="IC-GENERIC-100" device="-TQFP"/>
+<part name="U1" library="SnapEDA" deviceset="IC-GENERIC-100" device="-TQFP" value=""/>
 <part name="J1" library="SnapEDA" deviceset="CONNECTOR_25" device=""/>
 <part name="J2" library="SnapEDA" deviceset="CONNECTOR_25" device="_NO_SQUARE"/>
 <part name="J3" library="SnapEDA" deviceset="CONNECTOR_25" device="_NO_SQUARE"/>
